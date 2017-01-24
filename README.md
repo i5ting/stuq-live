@@ -10,10 +10,10 @@ https://www.zhihu.com/lives/802472054787043328
 
 ## 本次 Live 主要包括以下内容：
 
-＊ Node.js 2016 回顾
-＊ Node.js 的应用场景（前端工具、 proxy2 种、后端、微服务）
-＊ Node.js 如何高效配合服务器端渲染（以 react 、 vue 为例）
-＊ 如何结合 Node.js 完成更多（以最近写的 bigview 模块为例）
-＊ 如何在真实项目里使用、推广 Node.js ？
-＊ Node.js 2017 展望
+1. Node.js 2016 回顾
+1. Node.js 的应用场景（前端工具、 proxy2 种、后端、微服务）
+1. Node.js 如何高效配合服务器端渲染（以 react 、 vue 为例）
+1. 如何结合 Node.js 完成更多（以最近写的 bigview 模块为例）
+1. 如何在真实项目里使用、推广 Node.js ？
+1. Node.js 2017 展望
 
